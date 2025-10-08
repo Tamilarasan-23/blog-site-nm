@@ -63,5 +63,5 @@ The blog provides users with insightful articles, guides, and news about EV tech
 
 ## 🌐 Live Demo 🌐
 Check out the live version of the site:  
-[🔗 EV Blog Site Demo](https://your-live-site-link.com)
+[🔗 EV Blog Site Demo](https://ev-blogsite-nm.netlify.app/)
 
