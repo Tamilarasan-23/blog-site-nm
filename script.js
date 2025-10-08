@@ -267,7 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     BLOG_UPLOAD_FORM?.addEventListener('submit', handleBlogSubmission);
 });
-const API_KEY = "pub_642dd410ec93480a9fa270df71924259"; 
+const API_KEY = "API - KEY"; 
 const NEWS_API_URL = `https://newsdata.io/api/1/news?apikey=${API_KEY}&q=electric%20vehicle&language=en&country=in`;
 
 fetch(NEWS_API_URL)
@@ -289,3 +289,4 @@ fetch(NEWS_API_URL)
     }
   })
   .catch(error => console.error("Error loading EV news:", error));
+
