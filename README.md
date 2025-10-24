@@ -61,7 +61,7 @@ The blog provides users with insightful articles, guides, and news about EV tech
  - Push to the branch (git push origin feature/your-feature)
  - Open a Pull Request
 
-## 🌐 Live Demo 🌐
+## Live Demo
 Check out the live version of the site:  
 [🔗 EV Blog Site Demo](https://ev-blogsite-nm.netlify.app/)
 
