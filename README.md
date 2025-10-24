@@ -27,7 +27,7 @@ The blog provides users with insightful articles, guides, and news about EV tech
 - Clickable headlines redirecting to the original news source
 - Simple admin functionality to add, edit, or delete blog posts
 
-## Technologies Used 
+## Technologies Used (My Project Fully Focused on Frontend Only!)
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js / Express.js (or your backend stack)
 - **Database:** MongoDB / Firebase / MySQL (replace as per your project)
@@ -37,7 +37,7 @@ The blog provides users with insightful articles, guides, and news about EV tech
 ## Installation 
 1. Clone the repository:
    bash
-  - git clone https://github.com/yourusername/ev-blog-site.git
+  - git clone https://github.com/Tamilarasan-23/ev-blog-site.git
   - cd ev-blog-site
   - npm install
     
